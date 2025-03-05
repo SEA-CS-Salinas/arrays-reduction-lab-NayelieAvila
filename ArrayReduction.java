@@ -12,7 +12,7 @@ public class ArrayReduction {
 	}
 
 		PriorityQueue<Integer> pq = new PriorityQueue<>(); 
-		for (int : num r) {
+		for (int num : r) {
 			pq.add(num);
 	}
 
